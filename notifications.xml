@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Black Caiman is disabled" displayType="NONE" />
+    <notification groupId="Lombok plugin" displayType="NONE" />
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" />
+  </component>
+</application>
